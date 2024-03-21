@@ -6,6 +6,7 @@
         {
             Console.WriteLine("cerenKAya");
 
+            // ekran kapanmaması için
             Console.ReadLine();
         }
     }
