@@ -8,6 +8,6 @@ namespace team1Deneme
 {
     public class Alican
     {
-        public int Alican { get; set; }
+        public int Ali { get; set; }
     }
 }
